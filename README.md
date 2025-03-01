@@ -1,4 +1,4 @@
-👋 Hi, I’m Mustafa Jatozaii.
+👋 Hi, I’m Ghulam Mustafa.
 
 👀 I’m interested in Web development.
 
