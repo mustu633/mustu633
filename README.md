@@ -1,7 +1,5 @@
 👋 Hi, I’m Ghulam Mustafa.
 
-👀 I’m interested in Web development.
-
 🌱 I’m a Mern stack developer.
 
 💞️ I’m looking to collaborate on Projects.
